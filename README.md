@@ -1,9 +1,9 @@
 ### Hello there, I'm Vraj! 👋🏽
 
-Welcome to my GitHub Page! I am passionate about creating full-stack development with stunning front-end visuals and useful back-end architecture!
+Welcome to my GitHub! I am passionate about creating full-stack development with stunning front-end visuals and useful back-end architecture!
 
 - 📅 I am currently working on an office hour web application to help college students get quick access to help.
-- 📈 I am continually learning about Artificial Intelligence, Cloud Architecture, and Data Science.
+- 📈 I am learning about Artificial Intelligence, Cloud Architecture, and Data Science right now.
 - 📩 You can reach me at vrajpatel6147@gmail.com!
 
 Check out my portfolio to see some of the projects I've been working on:
