@@ -2,13 +2,13 @@
 
 Welcome to my GitHub! I am passionate about creating full-stack development with stunning front-end visuals and useful back-end architecture!
 
-- 📅 I am currently working on an office hour web application to help college students get quick access to help.
-- 📈 I am learning about Artificial Intelligence, Cloud Architecture, and Data Science right now.
+- 📅 I am currently working on an ai study tool that uses active learning to help students learn faster
+- 📈 I am learning about Artificial Intelligence and Machine Learning right now.
 - 📩 You can reach me at vrajpatel6147@gmail.com!
 
 Check out my portfolio to see some of the projects I've been working on:
 
-[💻 Visit My Portfolio](https://vrajpatel.vercel.app/)
+[💻 Visit My Portfolio](https://vraj.info/)
 
 Thank you for stopping by! ✌🏽
 
