@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I am passionate about creating full-stack development with stunning front-end visuals and useful back-end architecture!
 
-- 📅 I am currently working on an ai study tool that uses active learning to help students learn faster
+- 📅 I am currently working on an AI study tool that uses active learning to help students learn faster.
 - 📈 I am learning about Artificial Intelligence and Machine Learning right now.
 - 📩 You can reach me at vrajpatel6147@gmail.com!
 
