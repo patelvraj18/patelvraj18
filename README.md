@@ -2,13 +2,13 @@
 
 Welcome to my GitHub! I am passionate about creating full-stack development with stunning front-end visuals and useful back-end architecture!
 
-- 📅 I am currently working on an AI study tool that uses active learning to help students learn faster.
-- 📈 I am learning about Artificial Intelligence and Machine Learning right now.
+- 📅 I am currently building an AI-powered study tool to help pre-med students prepare smarter for the MCAT.
+- 📈 I am also furthering my interests diving deeper into learning more about Machine Learning.
 - 📩 You can reach me at vrajpatel6147@gmail.com!
 
 Check out my portfolio to see some of the projects I've been working on:
 
-[💻 Visit My Portfolio](https://vraj.info/)
+[💻 Visit My Portfolio](https://vrajp.vercel.app/)
 
 Thank you for stopping by! ✌🏽
 
