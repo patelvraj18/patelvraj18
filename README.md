@@ -8,7 +8,7 @@ Welcome to my GitHub! I am passionate about creating full-stack development with
 
 Check out my portfolio to see some of the projects I've been working on:
 
-[💻 Visit My Portfolio](https://vrajp.vercel.app/)
+<a href="https://vrajp.vercel.app/" target="_blank">💻 Visit My Portfolio</a>
 
 Thank you for stopping by! ✌🏽
 
